@@ -1,27 +1,40 @@
 # SAP Basis First Survival Guide
 
-Guia prático para iniciantes em SAP Basis.
+Guia prático para profissionais iniciantes em SAP Basis.
+
+Este repositório foi criado durante meu processo de aprendizado na área e tem como objetivo servir como material de consulta rápida para quem está começando.
 
 ## Conteúdo
 
-- Glossário SAP Basis
-- Conceitos Fundamentais
-- Administração de Usuários
+### 01 - Glossário
+- Conceitos fundamentais do SAP Basis
+
+### 02 - Conceitos Fundamentais
+- ECC e NetWeaver
+- Mandantes e MANDT
+- Landscape SAP
+
+### 03 - Tarefas do Basis
+- Administração de usuários
 - Transportes
 - Monitoramento
 - Troubleshooting
-- Checklist Diário
-- Laboratório de Estudos
-- Lessons Learned
+- Banco de dados
+- Jobs e impressão
+- Configuração
 
-## Navegação
+### 04 - Checklist Diário
+- Verificações operacionais
 
-- [Glossário](./01-Glossario/Glossario-Basis.md)
-- [Mandantes e MANDT](./02-Conceitos-Fundamentais/Mandantes-MANDT.md)
-- [Checklist Diário](./04-Checklist-Diario/Checklist-Basis.md)
-- [Troubleshooting](./05-Troubleshooting)
-- [Laboratório](./06-Laboratorio/Estudos-Praticos.md)
+### 05 - Troubleshooting
+- Fluxos de investigação
+
+### 06 - Laboratório
+- Exercícios práticos
+
+### 07 - Lessons Learned
+- Aprendizados obtidos durante a operação real
 
 ## Objetivo
 
-Ajudar profissionais iniciantes a entender o dia a dia de SAP Basis de forma prática.
+Compartilhar conhecimento e documentar a evolução profissional em SAP Basis.
