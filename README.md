@@ -8,12 +8,13 @@ Este repositório foi criado durante meu processo de aprendizado na área e tem 
 
 ## Navegação
 
-- [Glossário](./01-Glossario/Glossario-Basis.md)
-- [ECC e NetWeaver](./02-Conceitos-Fundamentais/ECC-NetWeaver.md)
-- [Mandantes e MANDT](./02-Conceitos-Fundamentais/Mandantes-MANDT.md)
-- [Administração de Usuários](./03-Tarefas-do-Basis/Administracao-de-Usuarios.md)
-- [Checklist Diário](./04-Checklist-Diario/Checklist-Basis.md)
-- [Laboratório](./06-Laboratorio/Estudos-Praticos.md)
+- [Glossário](./01-Glossario/)
+- [Conceitos Fundamentais](./02-Conceitos-Fundamentais/)
+- [Tarefas do Basis](./03-Tarefas-do-Basis/)
+- [Checklist Diário](./04-Checklist-Diario/)
+- [Troubleshooting](./05-Troubleshooting/)
+- [Laboratório](./06-Laboratorio/)
+- [Lessons Learned](./07-Lessons-Learned/)
 
 ## Objetivo
 
