@@ -6,35 +6,21 @@ Este repositório foi criado durante meu processo de aprendizado na área e tem 
 
 ## Conteúdo
 
-### 01 - Glossário
-- Conceitos fundamentais do SAP Basis
+## Navegação
 
-### 02 - Conceitos Fundamentais
-- ECC e NetWeaver
-- Mandantes e MANDT
-- Landscape SAP
-
-### 03 - Tarefas do Basis
-- Administração de usuários
-- Transportes
-- Monitoramento
-- Troubleshooting
-- Banco de dados
-- Jobs e impressão
-- Configuração
-
-### 04 - Checklist Diário
-- Verificações operacionais
-
-### 05 - Troubleshooting
-- Fluxos de investigação
-
-### 06 - Laboratório
-- Exercícios práticos
-
-### 07 - Lessons Learned
-- Aprendizados obtidos durante a operação real
+- [Glossário](./01-Glossario/Glossario-Basis.md)
+- [ECC e NetWeaver](./02-Conceitos-Fundamentais/ECC-NetWeaver.md)
+- [Mandantes e MANDT](./02-Conceitos-Fundamentais/Mandantes-MANDT.md)
+- [Administração de Usuários](./03-Tarefas-do-Basis/Administracao-de-Usuarios.md)
+- [Checklist Diário](./04-Checklist-Diario/Checklist-Basis.md)
+- [Laboratório](./06-Laboratorio/Estudos-Praticos.md)
 
 ## Objetivo
 
 Compartilhar conhecimento e documentar a evolução profissional em SAP Basis.
+
+## Sobre o Autor
+
+Este guia foi criado por Daniel Andrade durante sua jornada de aprendizado em SAP Basis.
+
+O objetivo é documentar conhecimentos, compartilhar experiências e ajudar outros profissionais iniciantes na área.
