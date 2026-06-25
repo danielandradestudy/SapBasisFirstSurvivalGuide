@@ -1,27 +1,43 @@
-# SAP Basis First Survival Guide
+SAP Basis First Survival Guide
 
-Guia prático para profissionais iniciantes em SAP Basis.
+Um guia gratuito e open source para quem está começando em SAP Basis.
 
-Este repositório foi criado durante meu processo de aprendizado na área e tem como objetivo servir como material de consulta rápida para quem está começando.
+Este projeto nasceu durante minha jornada de aprendizado em SAP Basis.
 
-## Conteúdo
+Enquanto estudava e trabalhava na área, senti falta de um material que reunisse os conceitos fundamentais de forma simples, prática e organizada.
 
-## Navegação
+Por isso decidi documentar tudo o que fui aprendendo durante esse processo.
 
-- [Glossário](./01-Glossario/)
-- [Conceitos Fundamentais](./02-Conceitos-Fundamentais/)
-- [Tarefas do Basis](./03-Tarefas-do-Basis/)
-- [Checklist Diário](./04-Checklist-Diario/)
-- [Troubleshooting](./05-Troubleshooting/)
-- [Laboratório](./06-Laboratorio/)
-- [Lessons Learned](./07-Lessons-Learned/)
+O objetivo deste guia é ajudar outros profissionais que estão iniciando em SAP Basis a entender os principais conceitos da área antes de mergulhar em documentações muito mais extensas.
 
-## Objetivo
+📚 O que você encontrará neste guia
+📖 Glossário com os principais termos utilizados em SAP Basis
+🏗️ Conceitos fundamentais da arquitetura SAP
+👨‍💻 Principais tarefas de um SAP Basis
+📋 Checklist diário de monitoramento
+🚨 Fluxos básicos de troubleshooting
+🧪 Laboratório para prática
+💡 Lições aprendidas durante minha jornada
+🎯 Público-alvo
 
-Compartilhar conhecimento e documentar a evolução profissional em SAP Basis.
+Este material foi escrito para:
 
-## Sobre o Autor
+Estudantes
+Estagiários
+SAP Basis Júnior
+Profissionais de Infraestrutura migrando para SAP
+⚠️ Importante
 
-Este guia foi criado por Daniel Andrade durante sua jornada de aprendizado em SAP Basis.
+Este não é um curso completo de SAP Basis.
 
-O objetivo é documentar conhecimentos, compartilhar experiências e ajudar outros profissionais iniciantes na área.
+A proposta é servir como um guia de sobrevivência, reunindo os conceitos que considero mais importantes para acelerar os primeiros passos na área.
+
+🤝 Contribuições
+
+Sugestões, correções e melhorias são sempre bem-vindas.
+
+Sobre o Autor
+
+Sou Daniel Andrade e este projeto faz parte da minha jornada de aprendizado em SAP Basis.
+
+Meu objetivo é compartilhar conhecimento, documentar minha evolução profissional e, ao mesmo tempo, ajudar outras pessoas que estão iniciando nessa área.
