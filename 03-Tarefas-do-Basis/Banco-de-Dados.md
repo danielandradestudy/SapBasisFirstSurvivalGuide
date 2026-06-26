@@ -1,5 +1,9 @@
 # Banco de Dados
 
+## 🎯 Objetivo
+
+Entender quais transações são utilizadas para monitorar a saúde do banco de dados e quando utilizá-las.
+
 ## Transações
 
 DB02
