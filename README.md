@@ -34,6 +34,28 @@ Este material foi escrito para:
 
 ---
 
+
+Para facilitar os estudos você também pode acompanhar os tópicos pelo **NotebookLM**, transformando-o em uma base de conhecimento que permite pesquisar, fazer perguntas e aprender de forma muito mais rápida.
+
+## 🚀 Acesse o Notebook
+
+👉 **https://notebooklm.google.com/notebook/8a26e572-e636-410e-a559-1dc385152d40**
+
+# 💡 Como utilizar
+
+Em vez de apenas ler documentos, experimente fazer perguntas como:
+
+- "O que significa um dump ST22?"
+- "Como analisar um lock na SM12?"
+- "Como interpretar a DB02?"
+- "O que faz a SM21?"
+- "Como funciona o processo de transporte no SAP?"
+- "Quais são as principais transações que um Basis utiliza?"
+
+O NotebookLM utiliza apenas as fontes cadastradas, tornando as respostas mais contextualizadas e consistentes. Esse modelo de estudo baseado em fontes ajuda a reduzir respostas genéricas e melhora a rastreabilidade das informações. :contentReference[oaicite:0]{index=0}
+
+---
+
 # ⚠️ Importante
 
 Este **não é um curso completo de SAP Basis**.
