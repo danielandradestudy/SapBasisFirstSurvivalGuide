@@ -31,3 +31,11 @@ Antes de agir:
 - Entenda o sintoma
 - Analise logs
 - Identifique a causa raiz
+
+## 🚀 Próximos passos
+
+Agora que você concluiu este guia, continue praticando.
+
+A experiência em SAP Basis é construída resolvendo problemas, analisando comportamentos e aprendendo continuamente.
+
+Este guia representa apenas o primeiro passo da jornada.
