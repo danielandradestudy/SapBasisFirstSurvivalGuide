@@ -4,11 +4,29 @@ Landscape representa o conjunto de ambientes SAP.
 
 Exemplo:
 
-DEV
-↓
-QAS
-↓
-PRD
+          Desenvolvimento
+
+                DEV
+
+                 │
+
+      Transport Request
+
+                 ▼
+
+          Homologação
+
+                QAS
+
+                 │
+
+      Aprovação do negócio
+
+                 ▼
+
+            Produção
+
+               PRD
 
 ## Ambientes
 
