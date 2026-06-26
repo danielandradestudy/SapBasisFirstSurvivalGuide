@@ -1,29 +1,61 @@
-# ECC e NetWeaver
+# 🏗️ ECC e NetWeaver
 
-## SAP ECC
+## 🎯 Objetivo
 
-ERP tradicional da SAP.
-
-Representa a camada de negócio.
+Entender a diferença entre o SAP ECC e o SAP NetWeaver.
 
 ---
 
-## SAP NetWeaver
+## 📖 O que é o SAP ECC?
 
-Plataforma tecnológica que suporta aplicações SAP.
+O SAP ECC (**ERP Central Component**) é o sistema responsável por executar os processos de negócio da empresa, como compras, vendas, estoque, produção e financeiro.
 
-Representa a camada tecnológica.
+Em outras palavras, é a aplicação utilizada pelos usuários.
 
 ---
 
-## Relação
+## 📖 O que é o SAP NetWeaver?
 
-ECC = Aplicação
+O SAP NetWeaver é a plataforma tecnológica onde o SAP ECC é executado.
 
-NetWeaver = Plataforma
+Ele fornece toda a infraestrutura necessária para que o sistema funcione.
 
-Analogia:
+---
 
-WordPress roda em PHP
+## 💡 Analogia
 
-ECC roda em NetWeaver
+Imagine um site desenvolvido em WordPress.
+
+```text
+WordPress
+      │
+Roda sobre
+      ▼
+PHP
+```
+
+No SAP acontece algo parecido.
+
+```text
+SAP ECC
+      │
+Roda sobre
+      ▼
+SAP NetWeaver
+```
+
+---
+
+## 📌 Memorize
+
+- ECC = Aplicação de negócio
+- NetWeaver = Plataforma tecnológica
+- O ECC depende do NetWeaver para funcionar
+
+---
+
+## 🎯 Resumo
+
+- ✔ ECC é o ERP utilizado pelos usuários.
+- ✔ NetWeaver é a plataforma onde o ECC é executado.
+- ✔ Todo ambiente SAP ECC depende do NetWeaver.
