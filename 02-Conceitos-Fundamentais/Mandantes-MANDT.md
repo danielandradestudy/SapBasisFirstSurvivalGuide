@@ -54,6 +54,11 @@ Configuração de mandantes
 
 Client Copy
 
+## 📌 Memorize
+
+- Client e Mandante representam a mesma ideia.
+- Cada Client possui um número chamado MANDT.
+- O SAP utiliza o MANDT para separar os dados entre os clientes.
 ### SCC1
 
 Transporte entre Clients
