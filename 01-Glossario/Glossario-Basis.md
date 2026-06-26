@@ -1,5 +1,11 @@
 # Glossário SAP Basis
 
+## 📌 Como usar este glossário
+
+Consulte este capítulo sempre que encontrar um termo desconhecido durante seus estudos.
+
+O objetivo não é decorar todos os conceitos, mas compreender rapidamente os termos mais utilizados no dia a dia de um SAP Basis.
+
 ## SAP ECC
 
 ERP tradicional da SAP.
