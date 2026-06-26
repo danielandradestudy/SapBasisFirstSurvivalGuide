@@ -1,0 +1,77 @@
+# 📚 SAP Basis Knowledge Base - NotebookLM
+
+Bem-vindo!
+
+Durante minha jornada de aprendizado em **SAP Basis**, percebi que grande parte do conhecimento fica espalhada entre documentações, notas, artigos, manuais, blogs e experiências do dia a dia.
+
+Para facilitar meus estudos, organizei esse material em um **NotebookLM**, transformando-o em uma base de conhecimento que permite pesquisar, fazer perguntas e aprender de forma muito mais rápida.
+
+## 🚀 Acesse o Notebook
+
+👉 **https://notebooklm.google.com/notebook/8a26e572-e636-410e-a559-1dc385152d40**
+
+---
+
+# 🎯 Objetivo
+
+Este projeto tem como objetivo ajudar estudantes, profissionais iniciantes e até administradores SAP Basis que desejam consultar rapidamente conceitos e procedimentos relacionados ao dia a dia da administração SAP.
+
+A ideia é utilizar o NotebookLM como um **assistente de estudos**, permitindo explorar o conteúdo de maneira interativa.
+
+---
+
+# 📖 O que você encontrará
+
+O Notebook reúne conteúdos relacionados a temas como:
+
+- Administração SAP Basis
+- Monitoramento de ambientes
+- Troubleshooting
+- Performance
+- Transportes
+- Usuários e autorizações
+- Jobs
+- Dumps
+- Locks
+- RFC
+- Logs do sistema
+- Banco de dados
+- Backup
+- Kernel
+- Conceitos fundamentais
+- Documentações técnicas
+- E muito mais...
+
+---
+
+# 💡 Como utilizar
+
+Em vez de apenas ler documentos, experimente fazer perguntas como:
+
+- "O que significa um dump ST22?"
+- "Como analisar um lock na SM12?"
+- "Como interpretar a DB02?"
+- "O que faz a SM21?"
+- "Como funciona o processo de transporte no SAP?"
+- "Quais são as principais transações que um Basis utiliza?"
+
+O NotebookLM utiliza apenas as fontes cadastradas, tornando as respostas mais contextualizadas e consistentes. Esse modelo de estudo baseado em fontes ajuda a reduzir respostas genéricas e melhora a rastreabilidade das informações. :contentReference[oaicite:0]{index=0}
+
+---
+
+# 🤝 Contribuições
+
+Caso encontre materiais interessantes, sugestões ou melhorias, fique à vontade para abrir uma Issue ou entrar em contato.
+
+O objetivo é fortalecer a comunidade SAP Basis através do compartilhamento de conhecimento.
+
+---
+
+# 📌 Aviso
+
+Este Notebook possui finalidade exclusivamente educacional.
+
+Sempre valide procedimentos antes de executá-los em ambientes produtivos.
+
+---
+
