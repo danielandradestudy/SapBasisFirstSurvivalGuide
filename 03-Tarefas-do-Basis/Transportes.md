@@ -1,5 +1,11 @@
 # Transportes
 
+## 📌 O que decorar
+
+- STMS gerencia os transportes.
+- SE09 e SE10 administram Requests.
+- Toda alteração deve percorrer DEV → QAS → PRD.
+
 ## Transações
 
 STMS
